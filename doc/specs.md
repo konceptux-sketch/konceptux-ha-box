@@ -4,8 +4,8 @@
 
 | Component | Spec |
 |---|---|
-| SBC | Raspberry Pi 4, 4GB RAM |
-| Storage | 256GB USB SSD (boot + storage) |
+| SBC | Raspberry Pi 5, 4GB RAM |
+| Storage | 256GB SSD (boot + storage) |
 | OS | Home Assistant OS, pre-installed |
 
 ## Connectivity
