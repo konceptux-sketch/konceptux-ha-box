@@ -8,12 +8,13 @@ The Konceptux HA Box is a turnkey Home Assistant appliance. Instead of asking a 
 
 ## Hardware
 
-- Raspberry Pi 4 (4GB) as the core compute platform
-- 256GB USB SSD for fast, reliable storage (avoids the SD card wear/corruption issues common in always-on Pi deployments)
+- Raspberry Pi 5 (4GB) as the core compute platform
+- 256GB SSD for fast, reliable storage 
 - Integrated Zigbee 3.0 coordinator for direct device pairing, no separate USB dongle required
 - Onboard fast alarm buzzer, sub-800ms response time, for security/alert use cases
 - Custom PETG enclosure, 3D printed and laser-engraved with the Konceptux logo
 - External antenna for improved Zigbee range in real installations
+- Fan using PWM
 
 ## Software stack
 
